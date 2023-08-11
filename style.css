@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 0.5rem;
+}
+h1,h2{
+background-color: blueviolet;
+padding: 10px;
+color: #fff;
+}
+.centralizar{
+    text-align: center;
+}
+.btn-pedidos{
+background-color: blueviolet;
+color: #fff; 
+text-decoration: none;
+padding: 10px 30px;
+border-radius: 5px;
+font-size: 16px;
+margin-top: 50px;
+}
+
+footer{
+    margin-top: 200px;
+}
